@@ -50,4 +50,4 @@ I'm working toward building systems that combine software intelligence with phys
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeDreams)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/LazarusRobotics)
-[![Linkedin](https://https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/alvaro-lazarus-1093792b3)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-lazarus-1093792b3)
