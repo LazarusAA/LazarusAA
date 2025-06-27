@@ -1,53 +1,58 @@
-# Hello! 👋 I'm Alvaro Lazarus
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/5603b08a-20fc-40fc-8f40-0c8594e44a49]" alt="An optimistic, futuristic image representing technology and nature."/>
+</p>
 
-I'm a passionate developer and technology enthusiast from Costa Rica, focused on creating systems that make essential resources accessible to everyone. My expertise spans Machine Learning, Blockchain, and now I'm expanding into Robotics & Automation. I believe technology, when properly directed, can transform how we live and ensure everyone's basic needs are met.
+# Hi, I'm Alvaro Lazarus 👋
 
----
-
-## 🚀 What I'm Currently Working On:
-
-- 🌱 Developing my knowledge of **Machine Learning** with focus on practical implementations
-- 🔭 Exploring **AI agents on-chain** with **Giza**
-- 👯 Collaborating on **Web3** and **AI-driven** projects
-- 🤖 Seeking collaborations on projects that combine **AI** and **Physical Computing**
+<p align="center">
+  A developer from Costa Rica, building tools to unlock Latin America's potential.
+</p>
 
 ---
 
-## 🧠 My Passion for Learning:
+### My Mission
 
-I'm driven by the belief that technology can create abundance rather than scarcity. My journey combines technical skill-building with a clear purpose: developing systems that make food, water, and essential resources accessible to everyone. Each project I undertake is a step toward building technologies that solve real problems and empower people.
+I believe Latin America is home to some of the world's brightest and most creative minds. But I also know that talent is universal, while opportunity is not. My life's work is dedicated to closing that gap.
 
----
+I'm focused on using technology—specifically Artificial Intelligence—to build systems that make high-quality, personalized education accessible to everyone. My goal is to create a future where a person's ambition is the only limit to their destiny.
 
-## ⚡ My Tech Stack
-
-- Languages: TypeScript, Python, Solidity, Cairo
-- Frameworks & Libraries: React, Node.js, TensorFlow, PyTorch
-- Blockchains: Ethereum, Starknet, World
-- Tools: Git, Docker
-- Expanding into: Robotics platforms, Automation systems
+To stay accountable and build with the community, I am documenting my entire journey in public.
 
 ---
 
-## 🛠️ Projects 
+### 🚀 What I'm Building Now: Project "MentorIA"
 
-Here are a few recent projects that I have worked on:
+[![Status](https://img.shields.io/badge/Status-Actively_Developing_MVP-brightgreen?style=for-the-badge)](https://github.com/mentoria-app/mentor-ia)
 
-- [**Aethereal**](https://github.com/bitfalt/aethereal): An AI-powered platform to create and mint NFT art
+**Project "MentorIA"** is the first step in this mission. It's an AI-powered study companion designed to act as a personal, 24/7 tutor for students.
 
-- [**WorldVote**](https://github.com/bitfalt/world-vote): A decentralized voting platform with WorldID verification
+* **The Problem It Solves:** Traditional education struggles to adapt to individual learning styles. My goal is to provide a tool that feels like a dedicated partner in learning—one that is patient, engaging, and always available.
+* **The Current Stage:** I am currently in the deep-work phase, building the Minimum Viable Product (MVP) and laying the foundational code.
 
-- [**MindVault**](https://github.com/MindVault-Inc/miniapp-monorepo): A MiniApp designed to help users explore their personalities, preferences & ideologies
-
----
-
-## 💫 Future Directions
-I'm working toward building systems that combine software intelligence with physical automation. My goal is to develop robotics solutions that tackle resource scarcity and make essential goods more accessible. I believe the next technological revolution will be in bridging digital intelligence with physical systems at scale.
+➡️ **[Follow the development of Project "Luz" in its repository (https://github.com/mentoria-app/mentor-ia)]**
 
 ---
 
-## 🤝 Connect with Me
+### 🛠️ My Toolkit
 
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeDreams)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/LazarusRobotics)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-lazarus-1093792b3)
+Here are the primary technologies I'm using to bring this vision to life:
+
+* **Core Languages:** `Python`, `TypeScript`
+* **AI / Machine Learning:** `TensorFlow`, `PyTorch`, `Scikit-learn`, `LangChain`
+* **Backend & Frontend:** `Node.js`, `React / React Native`, `FastAPI`
+* **Databases & Infrastructure:** `Supabase`, `Docker`, `GCP / Vercel`
+
+---
+
+### 🌱 Let's Connect & Build Together
+
+This mission is bigger than just one person. I'm always open to connecting with fellow builders, educators, and anyone passionate about the future of Latin America.
+
+* **Follow my daily progress and thoughts on X →** This is the best place to see the real-time journey.
+* **Connect professionally on LinkedIn →** For more formal discussions and networking.
+* **Explore my projects →** Dive into the code and see how the vision is being built.
+
+<p align="center">
+  <a href="https://twitter.com/AlvaroLazarusAI"><img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"/></a>
+  <a href="https://www.linkedin.com/in/alvaro-lazarus-1093792b3/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+</p>
