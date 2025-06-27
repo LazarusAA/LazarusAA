@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/5603b08a-20fc-40fc-8f40-0c8594e44a49]" alt="An optimistic, futuristic image representing technology and nature."/>
+  <img src="https://github.com/user-attachments/assets/7ac7f33b-8eb8-414d-9784-9d4852e91787" alt="An optimistic, futuristic image representing technology and nature."/>
 </p>
 
 # Hi, I'm Alvaro Lazarus 👋
