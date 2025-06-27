@@ -29,7 +29,7 @@ To stay accountable and build with the community, I am documenting my entire jou
 * **The Problem It Solves:** Traditional education struggles to adapt to individual learning styles. My goal is to provide a tool that feels like a dedicated partner in learning—one that is patient, engaging, and always available.
 * **The Current Stage:** I am currently in the deep-work phase, building the Minimum Viable Product (MVP) and laying the foundational code.
 
-➡️ **[Follow the development of Project "Luz" in its repository (https://github.com/mentoria-app/mentor-ia)]**
+➡️ **[Follow the development of Project "MentorIA" in its repository (https://github.com/mentoria-app/mentor-ia)]**
 
 ---
 
